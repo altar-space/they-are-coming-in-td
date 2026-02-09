@@ -1,6 +1,7 @@
 path	type	rel_file_path	timestamp	dirty	build	touch_build
 /externalizations	table	TOX/externalizations.tsv	2026-02-08 04:44:55 UTC			
-/CUE_CTRL_v1	container	TOX/CUE_CTRL_v1.tox	2026-02-09 07:54:34 UTC	False	70	2025.32280
+/CUE_CTRL_v1	container	TOX/CUE_CTRL_v1.tox	2026-02-09 11:01:24 UTC	False	71	2025.32280
 /LX_v1	container	TOX/LX_v1.tox	2026-02-09 08:28:04 UTC	False	6	2025.32280
-/OUTPUT_3_BACK_PROJ	container	TOX/OUTPUT_3_BACK_PROJ.tox	2026-02-09 08:02:22 UTC	False	4	2025.32280
+/OUTPUT_CAPTIONS	container	TOX/OUTPUT_CAPTIONS.tox	2026-02-09 11:03:57 UTC	False	5	2025.32280
 /DMX_OUT	base	TOX/DMX_OUT.tox	2026-02-09 08:28:04 UTC	False	1	2025.32280
+/OUTPUT_LIGHTBOX_SCREEN	container	TOX/OUTPUT_LIGHTBOX_SCREEN.tox	2026-02-09 11:03:57 UTC	False	1	2025.32280
